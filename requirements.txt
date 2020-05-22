@@ -1,5 +1,0 @@
-Numpy
-Matplotlib
-Seaborn
-Pandas
-Qgrid
