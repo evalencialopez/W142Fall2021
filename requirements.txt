@@ -4,3 +4,4 @@ Seaborn
 Pandas
 Qgrid
 Datascience
+IPython
