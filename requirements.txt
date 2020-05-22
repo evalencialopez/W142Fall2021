@@ -4,4 +4,3 @@ Seaborn
 Pandas
 Qgrid
 Datascience
-warnings
