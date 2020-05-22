@@ -1,7 +1,0 @@
-Numpy
-Matplotlib
-Seaborn
-Pandas
-Qgrid
-Sys
-warnings
