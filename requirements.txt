@@ -1,0 +1,7 @@
+Numpy
+Matplotlib
+Seaborn
+Pandas
+Qgrid
+Datascience
+warnings
